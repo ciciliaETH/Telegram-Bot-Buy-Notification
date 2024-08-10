@@ -1,3 +1,3 @@
-# TelegramBot-BuyTransaksi
+# TelegramBot-BuyNotification
 
-Bot Telegram Menampilkan traksaksi jual beli token dan coin crypto menggunakan endpoint coingecko
+Telegram bot displays buying and selling transactions for crypto tokens and coins using the coingecko endpoint
